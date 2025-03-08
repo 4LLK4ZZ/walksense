@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240321100078",
+    "project_id": "walksense-2ab15",
+    "storage_bucket": "walksense-2ab15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240321100078:android:e50c0b9d61a7668092a2bf",
+        "android_client_info": {
+          "package_name": "com.example.walksense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbDEiMwBSQYDr2yERSro1CH5BGBJHk-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

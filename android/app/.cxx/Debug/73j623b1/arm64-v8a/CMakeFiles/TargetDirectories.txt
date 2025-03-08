@@ -1,0 +1,2 @@
+C:/Users/alcid/StudioProjects/walksense/android/app/.cxx/Debug/73j623b1/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/alcid/StudioProjects/walksense/android/app/.cxx/Debug/73j623b1/arm64-v8a/CMakeFiles/rebuild_cache.dir
